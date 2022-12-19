@@ -451,7 +451,7 @@ h6 {
   }
 }
 .home {
-  background-image: url(../images/hero-img9.jpg);
+  background-image: url(../images/bg2.jpg);
   background-position: top center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -618,7 +618,7 @@ h6 {
   background-color: #4ecdc4;
   color: #fff;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.01);
-  border-botom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #f2f2f2;
   padding: 20px 0;
 }
 .page-breadcrumb .breadcrumb {
@@ -964,7 +964,7 @@ ul.styled-list.list-star li:before {
 }
 .call-2-acction {
   padding: 100px 0;
-  background-image: url(../images/c2a.png);
+  background-image: url(../images/);
   background-attachment: fixed;
   background-color: #000;
 }
@@ -1140,10 +1140,10 @@ ul.styled-list.list-star li:before {
 }
 .testimonials {
   padding: 100px 0;
-  background-image: url(../images/testimonials.png);
+  background-image: url(../images/);
   background-size: cover;
   background-attachment: fixed;
-  background-color: #000;
+  background-color: rgb(132, 129, 129);
   color: #fff;
 }
 .testimonial .testimonial-img {
